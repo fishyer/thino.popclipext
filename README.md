@@ -1,13 +1,13 @@
-# memos.popclipext
+# Thino.popclipext
 
-A PopClip extension for Thino.
+Thino 的 PopClip 扩展程序。
 
-## USAGE
+## 安装说明
 
-1. Download the `.zip` file from the release page.
-2. Unzip the downloaded file to a folder that ends with '.popclipext'.
-3. Double click on the unzipped package to initiate the installation process.
-4. After successful installation, open the settings and provide your api url and access token.
-5. All done! You are now ready to use the extension.
+1. 从发布页面下载 `.zip` 文件。
+2. 将下载的文件解压并重命名为以 '.popclipext' 结尾的文件夹。
+3. 双击以启动安装过程。
+4. 安装成功后，打开设置并提供您的 api url 和访问令牌。
+5. 完成所有！现在您已准备好使用扩展了。
 
-If you encounter any issues during installation or usage, feel free to raise an issue in our GitHub repository.
+如果您在安装或使用过程中遇到任何问题，请随时在我们的 GitHub 存储库中提出问题。
