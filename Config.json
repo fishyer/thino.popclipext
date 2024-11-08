@@ -1,0 +1,34 @@
+{
+    "name": "Thino",
+    "identifier": "com.fishyer.popclip.thino",
+    "icon": "thino.png",
+    "requiremnents": ["url"],
+    "entitlements": ["network"],
+    "title": {
+        "en": "Thino",
+        "zh": "速记"
+    },
+    "javascript file": "thino.js",
+    "Options": [
+        {
+            "identifier": "site",
+            "label": {
+                "en": "Url",
+                "zh": "API地址"
+            },
+            "description": {
+                "en": "https://api.thino.pkmer.cn/test/thino/createThino",
+                "zh": "https://api.thino.pkmer.cn/test/thino/createThino"
+            },
+            "type": "string"
+        },
+        {
+            "identifier": "access_token",
+            "type": "string",
+            "label": {
+                "en": "Access Token",
+                "zh": "Access Token"
+            }
+        }
+    ]
+}
